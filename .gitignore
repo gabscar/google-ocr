@@ -1,0 +1,6 @@
+# modules
+/node_modules
+
+# GC credentials
+*keys.json*
+src/config/*
